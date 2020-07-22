@@ -1,16 +1,14 @@
-package com.daq.gread15;
-
 import java.util.Scanner;
 
-public class main06 {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
-		int i=n%10;//个位数
-		int j=n/10%10;//十位
-		int k=n/10/10%10;//百位
+		int i=n%10;//赂枚脦禄脢媒
+		int j=n/10%10;//脢庐脦禄
+		int k=n/10/10%10;//掳脵脦禄
 		
 		for (int a = 1; a <= k; a++) {
 			System.out.print("B");
