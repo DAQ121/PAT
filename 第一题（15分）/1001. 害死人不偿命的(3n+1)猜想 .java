@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * @author
+ * @author daq
  * @description (3n+1)数问题
  * 解题思路：用一个while循环，判断输入的数是奇数还是偶数，然后做对应的操作，根据while循环的条件，终止循环
  * 总结：多使用位运算，使用while控制循环
