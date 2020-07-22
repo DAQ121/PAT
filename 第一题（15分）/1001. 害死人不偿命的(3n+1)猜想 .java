@@ -1,14 +1,12 @@
-package com.daq.gread15;
-
 import java.util.Scanner;
 
 /**
  * @author
- * @description (3n+1)ÊıÎÊÌâ
- * ½âÌâË¼Â·£ºÓÃÒ»¸öwhileÑ­»·£¬ÅĞ¶ÏÊäÈëµÄÊıÊÇÆæÊı»¹ÊÇÅ¼Êı£¬È»ºó×ö¶ÔÓ¦µÄ²Ù×÷£¬¸ù¾İwhileÑ­»·µÄÌõ¼ş£¬ÖÕÖ¹Ñ­»·
- * ×Ü½á£º¶àÊ¹ÓÃÎ»ÔËËã£¬Ê¹ÓÃwhile¿ØÖÆÑ­»·
+ * @description (3n+1)æ•°é—®é¢˜
+ * è§£é¢˜æ€è·¯ï¼šç”¨ä¸€ä¸ªwhileå¾ªç¯ï¼Œåˆ¤æ–­è¾“å…¥çš„æ•°æ˜¯å¥‡æ•°è¿˜æ˜¯å¶æ•°ï¼Œç„¶ååšå¯¹åº”çš„æ“ä½œï¼Œæ ¹æ®whileå¾ªç¯çš„æ¡ä»¶ï¼Œç»ˆæ­¢å¾ªç¯
+ * æ€»ç»“ï¼šå¤šä½¿ç”¨ä½è¿ç®—ï¼Œä½¿ç”¨whileæ§åˆ¶å¾ªç¯
  */
-public class main01 {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n=sc.nextInt();
