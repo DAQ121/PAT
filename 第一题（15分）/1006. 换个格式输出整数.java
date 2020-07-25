@@ -6,8 +6,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
-		int i=n%10;//¸öÎ»Êý
-		int j=n/10%10;//Ê®Î»
+		int i=n%10; //¸öÎ»Êý
+		int j=n/10%10; //Ê®Î»
 		int k=n/10/10%10;//°ÙÎ»
 		
 		for (int a = 1; a <= k; a++) {
